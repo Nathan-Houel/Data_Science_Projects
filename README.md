@@ -107,3 +107,9 @@ python -m venv .venv
 .venv/source/activate
 pip install -r requirements.txt
 ```
+
+## 👤 Contact
+
+Nathan Houel - houel.nathan.18@gmail.com  
+
+Project link: [Data Science Projects Portfolio](https://github.com/Nathan-Houel/Data_Science_Projects)
